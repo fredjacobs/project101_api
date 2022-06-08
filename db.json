@@ -1,12 +1,18 @@
 
 {
-  "names": [
+  "projects": [
     {
       "id": 1,
-      "name": "John"
+      "title": "Kitchen Install"
+    },
+    {
+      "id": 2,
+      "title": "Roof Repair"
+    },
+    {
+      "id": 3,
+      "title": "Tiling"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
