@@ -2,7 +2,17 @@
   "projects": [
     {
       "id": 1,
-      "title": "Kitchen Fitting"
+      "title": "Kitchen Fitting",
+      "job_description": "Solid Top with cupboards and the works",
+      "status": "Quote",
+      "client":{
+        "name": "John Harding",
+        "address":"33 Yo Road, Margate",
+        "phone": "555 555 5555",
+        "email":"j@gmail.com"
+      },
+      "agent": "Jim Reeves",
+      "date": "2022 06 01"
     },
     {
       "id": 2,
