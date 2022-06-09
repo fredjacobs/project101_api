@@ -16,11 +16,31 @@
     },
     {
       "id": 2,
-      "title": "Floor Tiling"
+      "title": "Floor Tiling",
+      "job_description": "Bathroom and Kitchen floor",
+      "status": "In Progess",
+      "client":{
+        "name": "JLennord Gitkin",
+        "address":"2 Stay Lane, Margate",
+        "phone": "222 222 2222",
+        "email":"l@gmail.com"
+      },
+      "agent": "Ken Gerner",
+      "date": "2022 05 22"
     },
     {
       "id": 3,
-      "title": "Roof Repair"
+      "title": "Roof Repair",
+      "job_description": "Tresses and roof tile whole roof",
+      "status": "Invoice",
+      "client":{
+        "name": "Harry Henderson",
+        "address":"5 Simple Avenue, Margate",
+        "phone": "777 777 7777",
+        "email":"h@gmail.com"
+      },
+      "agent": "George Pudding",
+      "date": "2022 06 10"
     }
   ],
   "profile": {
